@@ -10,7 +10,7 @@ Two VPCs connected with VPC peering so two private EC2 servers can talk
 over private IPs. One public bastion host in VPC A is used for SSH access.
 
 ## Architecture
-![Architecture](docs/AWS VPC Peering Network Architecture.png)
+[Architecture](docs/AWS VPC Peering Network Architecture.png)
 
 | Resource | CIDR / IP |
 |---|---|
